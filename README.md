@@ -1,17 +1,17 @@
 #Social App
 
-###### View social profiles of users on website.
+#### View social profiles of users on website.
 
-###### A single page app using Redux.
+##### A single page app using Redux.
 
-###### This project is backbone structure of react-redux framework.
+##### This project is backbone structure of react-redux framework.
 
 ###### Use these commands to start off-
 
-'npm install'
+1. 'npm install'
 
-'webpack'
+2. 'webpack'
 
-'npm run start'
+3. 'npm run start'
 
 and then go to: 'http://localhost:3000/' to access server homepage
